@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://dukeimeket:dukeimeket200212@cluster0.1ndkh.mongodb.net/<dbname>?retryWrites=true",
+  "jwtSecret": "chatApp_project"
+}
